@@ -1,3 +1,3 @@
-# A Simple Server Implementation
-A simple server that handles concurrent requests. A good reference to understand sockets, thread pools, locking, and condition variables.
+# Simple Server Implementations
+A simple server that handles concurrent requests using different forms of concurrency. Use for rudimentary learning purposes.
 
